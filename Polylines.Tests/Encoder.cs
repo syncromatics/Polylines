@@ -6,7 +6,6 @@ namespace Polylines.Tests
     [TestFixture]
     public class Encoder
     {
-      
         [Test]
         public void ShouldEncodeASinglePoint()
         {
